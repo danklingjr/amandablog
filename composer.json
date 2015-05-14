@@ -1,0 +1,24 @@
+{
+    "name"        : "just-build/amandablog",
+    "description" : "wordpress theme for amandablog",
+    "authors"     : [
+        {
+            "name"    : "dan kling",
+            "email"   : "danielklingjr@gmail.com",
+            "homepage": "http://www.danielklingjr.com"
+        }
+    ],
+    "type"        : "project",
+    "repositories": [
+        {
+            "type": "composer",
+            "url" : "http://wpackagist.org"
+        }
+    ],
+    "require"     : {
+        "johnpbloch/wordpress"            : ">=3.9"
+    },
+    "extra"       : {
+        "wordpress-install-dir": "wp"
+    }
+}
