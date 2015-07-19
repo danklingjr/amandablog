@@ -9,6 +9,8 @@ bower_components/
 node_modules/
 npm-debug.log
 vendor/
+amandablog.sublime-project
+amandablog.sublime-workspace
 
 # ignore wordpress core
 wp/

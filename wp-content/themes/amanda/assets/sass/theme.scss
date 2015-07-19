@@ -1,0 +1,18 @@
+/*!////////////////////////////////////////////////
+// THEME
+/////////////////////////////////////////////////*/
+$base-font-size: 16px;
+@function em($px, $base: $base-font-size){
+	@return ($px / $base) * 1em;
+}
+
+%vertical-align {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+$font-primary: "proxima-nova",sans-serif;
+$font-display: "lust-script-display",sans-serif;
