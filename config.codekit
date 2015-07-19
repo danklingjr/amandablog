@@ -7454,6 +7454,138 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-1024x681.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104402,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-1024x681.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-1024x681.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-1160x550.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97380,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-1160x550.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-1160x550.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9361,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-277x134.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12218,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-277x134.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-277x134.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-300x200.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16361,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-300x200.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-300x200.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-500x500.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55751,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-500x500.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-500x500.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-514x146.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22371,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-514x146.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-514x146.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-574x200.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28799,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-574x200.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-574x200.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-574x274.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34847,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-574x274.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-574x274.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-600x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46173,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-600x400.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-600x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack-800x772.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112007,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-800x772.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack-800x772.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/07\/handmadepack.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76815,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/07\/handmadepack.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp\/composer.json": {
 		"fileType": 524288,
 		"ignore": 1,
